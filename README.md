@@ -1,2 +1,3 @@
 # frontend_rocketseat
-frontend course of @rocketseat
+
+Frontend course of @Rocketseat. JS + ES6 + Node + ReactJS
